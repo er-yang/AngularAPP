@@ -1,6 +1,6 @@
 # MyApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
+angular学习 ，由官方脚手架 [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.搭建的
 
 ## Development server
 
